@@ -1,0 +1,13 @@
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.AssemblyInfoInputs.cache
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.AssemblyInfo.cs
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.exe
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.deps.json
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.runtimeconfig.json
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.runtimeconfig.dev.json
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.dll
+C:\Users\Radek\source\repos\wylistuj\wylistuj\bin\Debug\netcoreapp3.1\wylistuj.pdb
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.dll
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.pdb
+C:\Users\Radek\source\repos\wylistuj\wylistuj\obj\Debug\netcoreapp3.1\wylistuj.genruntimeconfig.cache
